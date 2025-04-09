@@ -1,0 +1,2 @@
+# capital
+♾️ WeOwn.Capital 🏛
