@@ -5,7 +5,7 @@ These bylaws (v1.0) were signed using [EthSign.xyz](https://EthSign.xyz) by foun
 ### Bylaws (v1.0) {additional reference points}
 
 * 🔗 Pretty Link ⇒ [https://Bylaws.WeOwn.Cash](https://Bylaws.WeOwn.Cash) 
-* ⚙️ GitHub ⇒ [https://github.com/WeOwnNetwork/capital/cash/docs/blob/main/Bylaws.md](https://github.com/WeOwnNetwork/capital/cash/docs/blob/main/Bylaws.md)
+* ⚙️ GitHub ⇒ [https://github.com/WeOwnNetwork/capital/edit/main/cash/docs/Bylaws.md](https://github.com/WeOwnNetwork/capital/edit/main/cash/docs/Bylaws.md)
 * ETHSign Contract ⇒ [https://app.ethsign.xyz/share/anj9l0l309pe](https://app.ethsign.xyz/share/anj9l0l309pe)
 * PDF on Google Drive ⇒ [https://drive.google.com/file/d/13qVCmDuH7zektlffRaN3fNVntAmjfX5d/view](https://drive.google.com/file/d/13qVCmDuH7zektlffRaN3fNVntAmjfX5d/view)
 * ⚡️ Snapshot ⇒ [https://snapshot.box/#/s:weowncash.eth/proposal/0xe98ad79fd58bc20c0853766c90f295c7893b30d971c3837fe91dcd4be6d58b53](https://snapshot.box/#/s:weowncash.eth/proposal/0xe98ad79fd58bc20c0853766c90f295c7893b30d971c3837fe91dcd4be6d58b53)
