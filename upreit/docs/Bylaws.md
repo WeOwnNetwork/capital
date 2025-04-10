@@ -7,7 +7,7 @@ These bylaws (v1.0) were signed using [EthSign.xyz](https://EthSign.xyz) by foun
 * ⚙️ GitHub ⇒ [https://github.com/WeOwnNetwork/capital/blob/main/upreit/docs/Bylaws.md](https://github.com/WeOwnNetwork/capital/blob/main/upreit/docs/Bylaws.md)
 * ETHSign Contract ⇒ [https://app.ethsign.xyz/share/ap0t4uvpoti7](https://app.ethsign.xyz/share/ap0t4uvpoti7)
 * PDF on Google Drive ⇒ [https://drive.google.com/file/d/1wysj_dbVrA1K3P9sycL6ysyxPCwmN2KF/view](https://drive.google.com/file/d/1wysj_dbVrA1K3P9sycL6ysyxPCwmN2KF/view)
-* ⚡️ Snapshot ⇒ [https://snapshot.box/#/s:up.onchainreit.eth/proposal/0x87002e1e53b2ac2c20f3347ec2ac23fa036a9e39d21f68ebfdc73710b4c4f57f](https://snapshot.box/#/s:up.onchainreit.eth/proposal/0x87002e1e53b2ac2c20f3347ec2ac23fa036a9e39d21f68ebfdc73710b4c4f57f)
+* ⚡️ Snapshot ⇒ [https://snapshot.box/#/s:up.onchainreit.eth/proposal/0xaf23d704decb4bfd694d04d08fd44df202cb6593011eece353e03186987addee](https://snapshot.box/#/s:up.onchainreit.eth/proposal/0xaf23d704decb4bfd694d04d08fd44df202cb6593011eece353e03186987addee)
 
 
 The details below are copy / paste from the original Google Docs.
