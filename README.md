@@ -19,10 +19,13 @@ Fostering cooperative ownership using onchain technology. We are currently plann
 ### 🇺🇸 [US]
 - 🏦 myIRA.fund (Individual Retirement Arrangement)
 
-## REITs (Real Estate Investment Trust)
-- 🆙 $UPREIT <growth / equity>
-- 💵 $iREIT <income / mortgage>
-- ⚡️ $eREIT <energy infrastructure>
+## Onchain REITs (Real Estate Investment Trust)
+
+| REIT | Type | URL |
+| -------- | -------- | -------- |
+| 🆙 $UPREIT | growth / equity | [UPREIT.xyz](https://UPREIT.xyz) |
+| 💵 $iREIT | income / mortgage | TBD |
+| ⚡️ $eREIT | energy infrastructure | [eREIT.xyz](https://eREIT.xyz) |
 
 ## Venture Studios (WeOwn.Studio)
 - 🏝️ Land
